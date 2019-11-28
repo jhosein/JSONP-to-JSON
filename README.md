@@ -1,2 +1,2 @@
-# JSONP-to-JSON
-Simple solution to strip callback funciton away from JSONP in .NET using regex. 
+# JSONP to JSON
+Simple solution to strip a callback funciton away from JSONP in .NETCore using regex. 
